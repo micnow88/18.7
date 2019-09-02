@@ -24,8 +24,8 @@ var ContactForm = React.createClass({
         />
         <label htmlFor='inputYourEmail'>email:</label>
         <input
-          type: 'email'
-          placeholder: 'Email'
+          type='email'
+          placeholder='Email'
           id='inputYourEmail'
           required
           value{this.props.contact.email}
