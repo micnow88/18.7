@@ -28,7 +28,7 @@ var ContactForm = React.createClass({
           placeholder='Email'
           id='inputYourEmail'
           required
-          value{this.props.contact.email}
+          value={this.props.contact.email}
         />
         <button type='submit'>Dodaj kontakt</button>
       </form>
