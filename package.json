@@ -1,0 +1,22 @@
+{
+  "name": "18.7",
+  "version": "1.0.0",
+  "description": "Learn JSX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micnow88/18.7.git"
+  },
+  "author": "Michal Nowakowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micnow88/18.7/issues"
+  },
+  "homepage": "https://github.com/micnow88/18.7#readme",
+  "dependencies": {
+    "babel-standalone": "^6.26.0"
+  }
+}
